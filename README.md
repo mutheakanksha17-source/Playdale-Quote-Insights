@@ -87,19 +87,19 @@ This provided actionable business insights beyond predictive modelling alone.
 
 ## Workflow
 
-![Workflow](images/workflow.png)
+![Workflow](Images/Workflow_Diagram.png)
 
 ---
 
 ## ROC Curve
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](Images/ROC_Curve.png)
 
 ---
 
 ## Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](Images/feature_importance.png)
 
 ---
 
